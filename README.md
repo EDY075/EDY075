@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner-github.png" width="100%" alt="Edmilson Gomes - Cybersecurity Banner">
+</p>
+
+<br>
 # 👋 Olá, eu sou Edmilson Gomes
 
 ### Cybersecurity • Security Research • Incident Response
