@@ -28,9 +28,9 @@ Meu objetivo é evoluir continuamente, transformar aprendizado em experiência p
 
 ## 🛡 Featured Project
 
-WAR ROOM
+## 🛡 WAR ROOM
 
-Interactive Cyber Attack Timeline
+**Interactive Cyber Attack Timeline**
 
 Status
 
