@@ -30,9 +30,7 @@ Meu objetivo é evoluir continuamente, transformar aprendizado em experiência p
 
 ## 🛡 WAR ROOM
 
-**Interactive Cyber Attack Timeline**
-
-Status
+**Linha do tempo interativa de ataques cibernéticos**
 
 🟢 Em desenvolvimento
 
