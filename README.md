@@ -3,6 +3,11 @@
 </p>
 
 <br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Building Cybersecurity Projects
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 👋 Olá, eu sou Edmilson Gomes
 
 ### Cybersecurity • Threat Intelligence • Incident Response
@@ -33,7 +38,7 @@ Em breve estará disponível online.
 
 ---
 
-## 📚 Atualmente estudando
+## 🧠 Atualmente explorando
 
 - Linux
 - Redes
