@@ -28,7 +28,9 @@ Meu objetivo é evoluir continuamente, transformar aprendizado em experiência p
 
 ## 🚀 Projeto principal
 
-### 🛡 WAR ROOM 
+### 🛡 WAR ROOM
+
+Interactive Cyber Attack Timeline 
 
 Uma plataforma interativa desenvolvida para documentar os maiores ataques cibernéticos da história.
 
