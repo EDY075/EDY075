@@ -5,7 +5,7 @@
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Building Cybersecurity Projects
+Transformando aprendizado em projetos reais de Cybersecurity.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 👋 Olá, eu sou Edmilson Gomes
