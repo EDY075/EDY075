@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Edmilson Gomes
 
-### Cybersecurity | Segurança da Informação | Security Research
+### Cybersecurity • Security Research • Incident Response
 
 > "Transformando estudo em projetos reais."
 
