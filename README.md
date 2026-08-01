@@ -8,9 +8,9 @@
 Transformando aprendizado em projetos reais de Cybersecurity.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 👋 Olá, eu sou Edmilson Gomes
+# 🛡️ Edmilson Gomes
 
-### Cybersecurity • Threat Intelligence • Incident Response
+### Cibersegurança • Threat Intelligence • Blue Team • Resposta a Incidentes
 
 > "Transformando estudo em projetos reais."
 
