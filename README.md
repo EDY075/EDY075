@@ -26,8 +26,6 @@ Meu objetivo é evoluir continuamente, transformar aprendizado em experiência p
 
 ## 💻 Tecnologias
 
-## 💻 Tecnologias
-
 <p align="left">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
