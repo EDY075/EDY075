@@ -24,15 +24,50 @@ Hoje direciono meus estudos para Linux, Redes, Python, Threat Intelligence, Resp
 
 Meu objetivo é evoluir continuamente, transformar aprendizado em experiência prática e contribuir para ambientes mais seguros.
 
+## 💻 Tecnologias
+
+![Linux]
+
+![Python]
+
+![Git]
+
+![GitHub]
+
+![HTML5]
+
+![CSS3]
+
+![JavaScript]
 ---
 
 ## 🛡 Featured Project
 
-## 🛡 WAR ROOM
+## 🛡️ WAR ROOM
 
-**Linha do tempo interativa de ataques cibernéticos**
+🎬 Documentário interativo sobre os maiores ataques cibernéticos da história.
 
-🟢 Em desenvolvimento
+✔ 12 incidentes históricos
+
+✔ Narrativa cinematográfica
+
+✔ Timeline interativa
+
+✔ Galeria de imagens
+
+✔ GitHub Pages
+
+✔ HTML • CSS • JavaScript
+
+🌐 Demonstração:
+https://edy075.github.io/WAR_ROOM/
+
+📂 Repositório:
+https://github.com/EDY075/WAR_ROOM
+
+🟢 Versão v1.0.0 publicada
+
+🔗 https://edy075.github.io/WAR_ROOM/
 
 Uma plataforma interativa desenvolvida para documentar os maiores ataques cibernéticos da história.
 
@@ -44,12 +79,21 @@ Em breve estará disponível online.
 
 ## 🧠 Atualmente explorando
 
-- Linux
-- Redes
-- Python
-- Git e GitHub
-- Threat Intelligence
-- Incident Response
+Linux
+
+Redes
+
+Python
+
+Threat Intelligence
+
+Incident Response
+
+Blue Team
+
+SIEM
+
+Digital Forensics
 
 ---
 
