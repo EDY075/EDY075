@@ -96,12 +96,16 @@ Conquistar minha primeira oportunidade na área de Tecnologia e Segurança da In
 
 ---
 
-## 📫 Contato
+## 📬 Contato
 
-- LinkedIn
-- GitHub
-- Portfólio (em desenvolvimento)
+- 💼 LinkedIn
+  https://linkedin.com/in/edmilsongomes21
 
+- 💻 GitHub
+  https://github.com/EDY075
+
+- 🌐 Portfólio
+  Em desenvolvimento
 ---
 
-> "O aprendizado constante é a base para construir soluções mais seguras."
+> "A segurança não é um produto, é um processo de aprendizado contínuo."
