@@ -63,7 +63,6 @@ https://github.com/EDY075/WAR_ROOM
 
 🟢 Versão v1.0.0 publicada
 
-🔗 https://edy075.github.io/WAR_ROOM/
 
 Uma plataforma interativa desenvolvida para documentar os maiores ataques cibernéticos da história.
 
@@ -75,8 +74,21 @@ Projeto disponível publicamente através do GitHub Pages.
 
 ## 🧠 Atualmente explorando
 
-Linux Python Git GitHub HTML CSS JavaScript
----
+- 🐧 Linux
+- 🌐 Redes
+- 🐍 Python
+- 🛡️ Threat Intelligence
+- 🚨 Resposta a Incidentes
+- 🔵 Blue Team
+- 🔍 SIEM
+- 🧾 Forense Digital
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ## 🎯 Objetivo
 
