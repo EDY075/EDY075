@@ -73,7 +73,7 @@ Uma plataforma interativa desenvolvida para documentar os maiores ataques cibern
 
 Mais do que apresentar informações, o projeto busca explicar como cada incidente aconteceu, quais impactos causou e quais lições podemos aprender.
 
-Em breve estará disponível online.
+Projeto disponível publicamente através do GitHub Pages.
 
 ---
 
