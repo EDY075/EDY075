@@ -39,6 +39,22 @@ Meu objetivo é evoluir continuamente, transformar aprendizado em experiência p
 
 ## 🛡 Featured Project
 
+## EDY Shield (Projeto Principal)
+
+Plataforma modular de ciberseguranca defensiva em Python 3.12 (core 100% stdlib).
+
+- Dashboard SOC com KPIs e saude do sistema
+- Alert Center com triagem e ciclo de vida (ACK/Resolve/Suppress/Reopen)
+- Investigation Workspace com timeline, evidencias e historico
+- File Integrity Monitor (baseline + scan)
+- String/Entropy Analyzer e Log Analyzer
+- REST API completa + CLI
+- 635 testes - mypy strict - ruff limpo
+
+Repositorio: https://github.com/EDY075/edy-shield
+
+---
+
 ## 🛡️ WAR ROOM
 
 🎬 Documentário interativo sobre os maiores ataques cibernéticos da história.
