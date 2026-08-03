@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="banner-github.png" width="100%" alt="Edmilson Gomes - Cybersecurity Banner">
 </p>
 
@@ -12,7 +12,7 @@ Transformando aprendizado em projetos reais de Cybersecurity.
 
 ### Cibersegurança • Threat Intelligence • Blue Team • Resposta a Incidentes
 
-> "Transformando estudo em projetos reais."
+> Foco em projetos praticos de Defesa, Deteccao e Resposta a Incidentes.
 
 ---
 
@@ -72,7 +72,7 @@ Projeto disponível publicamente através do GitHub Pages.
 
 ---
 
-## 🧠 Atualmente explorando
+## Atualmente explorando
 
 - 🐧 Linux
 - 🌐 Redes
@@ -104,8 +104,9 @@ Conquistar minha primeira oportunidade na área de Tecnologia e Segurança da In
 - 💻 GitHub
   https://github.com/EDY075
 
-- 🌐 Portfólio
-  Em desenvolvimento
+- Projetos
+  https://github.com/EDY075?tab=repositories
 ---
 
 > "A segurança não é um produto, é um processo de aprendizado contínuo."
+
