@@ -1,6 +1,6 @@
 <img width="1983" height="793" alt="banner git1" src="https://github.com/user-attachments/assets/b7aef0b7-b173-4472-909b-32f0735a2027" />
 ﻿<p align="center">
-  <img src="banner-github.png" width="100%" alt="Edmilson Gomes - Cybersecurity Banner">
+  <img 
 </p>
 
 <br>
