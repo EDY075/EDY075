@@ -20,10 +20,9 @@ Transformando aprendizado em projetos reais de Cybersecurity.
 
 Sempre tive interesse por tecnologia, mas foi na Segurança da Informação que encontrei a área em que quero construir minha carreira.
 
-Hoje direciono meus estudos para Linux, Redes, Python, Threat Intelligence, Resposta a Incidentes e desenvolvimento de projetos que me permitam aplicar na prática cada novo conhecimento adquirido.
+Hoje direciono meus estudos para Blue Team, SOC, Linux, Python, Threat Intelligence, Resposta a Incidentes e desenvolvimento de ferramentas Open Source voltadas para defesa cibernética.
 
-Meu objetivo é evoluir continuamente, transformar aprendizado em experiência prática e contribuir para ambientes mais seguros.
-
+Meu objetivo é evoluir continuamente, transformar conhecimento em soluções práticas e contribuir para ambientes mais seguros.
 ## 💻 Tecnologias
 
 <p align="left">
@@ -39,45 +38,50 @@ Meu objetivo é evoluir continuamente, transformar aprendizado em experiência p
 
 ## 🛡 Featured Project
 
-## EDY Shield (Projeto Principal)
+🛡️ EDY SIEM (Projeto Principal)
 
-Plataforma modular de ciberseguranca defensiva em Python 3.12 (core 100% stdlib).
+Open Source Security Information and Event Management (SIEM) desenvolvido para operações Blue Team.
 
-- Dashboard SOC com KPIs e saude do sistema
-- Alert Center com triagem e ciclo de vida (ACK/Resolve/Suppress/Reopen)
-- Investigation Workspace com timeline, evidencias e historico
-- File Integrity Monitor (baseline + scan)
-- String/Entropy Analyzer e Log Analyzer
-- REST API completa + CLI
-- 635 testes - mypy strict - ruff limpo
+• Dashboard operacional para SOC
+• Alert Center e gerenciamento de incidentes
+• Investigation Workspace
+• IOC Explorer
+• MITRE ATT&CK
+• REST API + CLI
+• Frontend moderno
+• Python + FastAPI + React
 
-Repositorio: https://github.com/EDY075/edy-shield
+Repositório:
+https://github.com/EDY075/EDYSIEM
 
 ---
 
 ## 🛡️ WAR ROOM
 
-🎬 Documentário interativo sobre os maiores ataques cibernéticos da história.
+Biblioteca cinematográfica interativa sobre conflitos cibernéticos e Threat Intelligence.
 
-✔ 12 incidentes históricos
+✅ 17 casos históricos e modernos
 
-✔ Narrativa cinematográfica
+✅ Centro de Inteligência
 
-✔ Timeline interativa
+✅ Linha do tempo global (1988–2025)
 
-✔ Galeria de imagens
+✅ Mapa mundial interativo
 
-✔ GitHub Pages
+✅ MITRE ATT&CK
 
-✔ HTML • CSS • JavaScript
+✅ IOC Explorer
+
+✅ Threat Intelligence
 
 🌐 Demonstração:
 https://edy075.github.io/WAR_ROOM/
 
-📂 Repositório:
+📁 Repositório:
 https://github.com/EDY075/WAR_ROOM
 
-🟢 Versão v1.0.0 publicada
+Versão atual:
+v1.0.3
 
 
 Uma plataforma interativa desenvolvida para documentar os maiores ataques cibernéticos da história.
@@ -86,6 +90,14 @@ Mais do que apresentar informações, o projeto busca explicar como cada inciden
 
 Projeto disponível publicamente através do GitHub Pages.
 
+🛡️ EDY Shield
+
+Projeto que deu origem ao EDY SIEM.
+
+Dashboard Blue Team desenvolvido para monitoramento, análise e resposta a incidentes de segurança.
+
+Repositório:
+https://github.com/EDY075/edy-shield
 ---
 
 ## Atualmente explorando
@@ -108,7 +120,7 @@ Projeto disponível publicamente através do GitHub Pages.
 
 ## 🎯 Objetivo
 
-Conquistar minha primeira oportunidade na área de Tecnologia e Segurança da Informação enquanto continuo desenvolvendo projetos práticos e expandindo meus conhecimentos.
+Construindo projetos Open Source voltados para Blue Team, Threat Intelligence e Incident Response enquanto evoluo para atuar profissionalmente na área de Segurança da Informação.
 
 ---
 
@@ -124,5 +136,5 @@ Conquistar minha primeira oportunidade na área de Tecnologia e Segurança da In
   https://github.com/EDY075?tab=repositories
 ---
 
-> "A segurança não é um produto, é um processo de aprendizado contínuo."
+> "A segurança não é um produto. É um processo de evolução contínua."
 
