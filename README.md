@@ -38,9 +38,9 @@ Meu objetivo é evoluir continuamente, transformar conhecimento em soluções pr
 
 ## ⭐ Featured Projects
 
-🛡️ EDY SIEM (Projeto Principal)
+🛡️ EDY SIEM 
 
-🛡️ Open Source Security Information and Event Management (SIEM)
+🛡️ Projeto Principal • Open Source SIEM para operações Blue Team
 
 • Dashboard operacional para SOC
 • Alert Center e gerenciamento de incidentes
