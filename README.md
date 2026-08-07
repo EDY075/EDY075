@@ -36,22 +36,20 @@ Meu objetivo é evoluir continuamente, transformar conhecimento em soluções pr
 </p>
 ---
 
-## 🛡 Featured Project
+## ⭐ Featured Projects
 
 🛡️ EDY SIEM (Projeto Principal)
 
-Open Source Security Information and Event Management (SIEM) desenvolvido para operações Blue Team.
+🛡️ Open Source Security Information and Event Management (SIEM)
 
 • Dashboard operacional para SOC
 • Alert Center e gerenciamento de incidentes
 • Investigation Workspace
 • IOC Explorer
 • MITRE ATT&CK
-• REST API + CLI
-• Frontend moderno
 • Python + FastAPI + React
 
-Repositório:
+🔗 Repositório:
 https://github.com/EDY075/EDYSIEM
 
 ---
@@ -92,13 +90,15 @@ Projeto disponível publicamente através do GitHub Pages.
 
 🛡️ EDY Shield
 
-Projeto que deu origem ao EDY SIEM.
+Projeto que originou a evolução do EDY SIEM.
 
-Dashboard Blue Team desenvolvido para monitoramento, análise e resposta a incidentes de segurança.
+• Dashboard Blue Team
+• Monitoramento
+• Análise de eventos
+• Resposta a incidentes
 
-Repositório:
+🔗 Repositório:
 https://github.com/EDY075/edy-shield
----
 
 ## Atualmente explorando
 
