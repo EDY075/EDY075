@@ -8,7 +8,7 @@
 Transformando aprendizado em projetos reais de Cybersecurity.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 🛡️ Edmilson Gomes
+#  Edmilson Gomes
 
 ### Cibersegurança • Threat Intelligence • Blue Team • Resposta a Incidentes
 
@@ -16,7 +16,7 @@ Transformando aprendizado em projetos reais de Cybersecurity.
 
 ---
 
-## 🛡️ Sobre mim
+##  Sobre mim
 
 Sempre tive interesse por tecnologia, mas foi na Segurança da Informação que encontrei a área em que quero construir minha carreira.
 
@@ -40,7 +40,7 @@ Meu objetivo é evoluir continuamente, transformar conhecimento em soluções pr
 
 🛡️ EDY SIEM 
 
-🛡️ Projeto Principal • Open Source SIEM para operações Blue Team
+ Projeto Principal • Open Source SIEM para operações Blue Team
 
 • Dashboard operacional para SOC
 • Alert Center e gerenciamento de incidentes
