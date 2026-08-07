@@ -88,7 +88,7 @@ Mais do que apresentar informações, o projeto busca explicar como cada inciden
 
 Projeto disponível publicamente através do GitHub Pages.
 
-🛡️ EDY Shield
+🛡️ EDY SHIELD
 
 Projeto que originou a evolução do EDY SIEM.
 
