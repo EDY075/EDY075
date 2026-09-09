@@ -1,140 +1,87 @@
-<img width="1983" height="793" alt="banner git1" src="https://github.com/user-attachments/assets/b7aef0b7-b173-4472-909b-32f0735a2027" />
-﻿<p align="center">
-</p>
+![EDY / GOMES — Portfólio de Edmilson Gomes](assets/README-HERO.png)
 
-<br>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Edmilson Gomes
 
-Transformando aprendizado em projetos reais de Cybersecurity.
+**Suporte de TI · Cibersegurança · Automação · Desenvolvimento**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  Edmilson Gomes
+Construindo soluções práticas em suporte, segurança, automação, desenvolvimento e análise de dados.
 
-### Cibersegurança • Threat Intelligence • Blue Team • Resposta a Incidentes
-
-> Foco em projetos praticos de Defesa, Deteccao e Resposta a Incidentes.
+[Portfólio](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/edmilsongomes21/) · [GitHub](https://github.com/EDY075) · [Contato](mailto:edmilsongsousa20@gmail.com)
 
 ---
 
-##  Sobre mim
+## SOBRE MIM
 
-Sempre tive interesse por tecnologia, mas foi na Segurança da Informação que encontrei a área em que quero construir minha carreira.
+Desenvolvo projetos que conectam suporte de TI, segurança, análise, automação, interfaces e documentação. Meu foco profissional parte de operações e resolução de problemas, com foco crescente em SOC / Blue Team e desenvolvimento de soluções local-first.
 
-Hoje direciono meus estudos para Blue Team, SOC, Linux, Python, Threat Intelligence, Resposta a Incidentes e desenvolvimento de ferramentas Open Source voltadas para defesa cibernética.
+## PROJETOS SELECIONADOS
 
-Meu objetivo é evoluir continuamente, transformar conhecimento em soluções práticas e contribuir para ambientes mais seguros.
-## 💻 Tecnologias
+### EDY SHADOWCAT
 
-<p align="left">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
----
+Orquestração local-first de reconhecimento autorizado, correlação de evidências e geração de relatórios.
 
-## ⭐ Featured Projects
+`Automação de segurança` · `Python` · `FastAPI` · `Streamlit` · `SQLite`\
+[Ver case study](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/work/edy-shadowcat) · Repositório privado
 
-🛡️ EDY SIEM 
+### EDY VERDICT
 
- Projeto Principal • Open Source SIEM para operações Blue Team
+Workbench local-first para verificar repositórios, binários, aplicativos instalados e URLs por meio de análise passiva.
 
-• Dashboard operacional para SOC
-• Alert Center e gerenciamento de incidentes
-• Investigation Workspace
-• IOC Explorer
-• MITRE ATT&CK
-• Python + FastAPI + React
+`Análise de segurança` · `Rust` · `Tauri` · `React` · `SQLite`\
+[Ver repositório](https://github.com/EDY075/EDY-VERDICT)
 
-🔗 Repositório:
-https://github.com/EDY075/EDYSIEM
+### EDY ScanURL Family
 
----
+Solução Web, PWA e Android para analisar sinais públicos de lojas e URLs antes de uma compra.
 
-## 🛡️ WAR ROOM
+`Segurança Web` · `TypeScript` · `React` · `Vite` · `Cloudflare Workers`\
+[Ver repositório](https://github.com/EDY075/edy-scanurl-family)
 
-Biblioteca cinematográfica interativa sobre conflitos cibernéticos e Threat Intelligence.
+### EDY HelpDesk
 
-✅ 17 casos históricos e modernos
+Service Desk local-first com tickets, SLA, ativos, diagnósticos somente leitura, relatórios e fluxos de segurança.
 
-✅ Centro de Inteligência
+`Suporte de TI` · `TypeScript` · `React` · `Node.js` · `SQLite`\
+[Ver repositório](https://github.com/EDY075/EDY-HelpDesk)
 
-✅ Linha do tempo global (1988–2025)
+### EDY SOC Analytics
 
-✅ Mapa mundial interativo
+Camada analítica de SOC com dados sintéticos, modelo estrela, DAX, RLS, MITRE ATT&CK e validação reproduzível.
 
-✅ MITRE ATT&CK
+`Dados & análise` · `Power BI` · `DAX` · `TMDL` · `Python`\
+[Ver repositório](https://github.com/EDY075/EDY-SOC-Analytics)
 
-✅ IOC Explorer
+### EDY RECON
 
-✅ Threat Intelligence
+Toolkit offline-first de OSINT e pesquisa de segurança com relatórios TXT/HTML sanitizados e controles defensivos.
 
-🌐 Demonstração:
-https://edy075.github.io/WAR_ROOM/
+`OSINT` · `Python` · `Windows` · `Kali Linux`\
+[Ver repositório](https://github.com/EDY075/EDY-RECON)
 
-📁 Repositório:
-https://github.com/EDY075/WAR_ROOM
+## CAPACIDADES
 
-Versão atual:
-v1.0.3
+- **SUPORTE & OPERAÇÕES** — solução de problemas, hardware e software, atendimento ao usuário, documentação e suporte a endpoints Windows.
+- **SEGURANÇA** — SOC / Blue Team, análise de eventos, Threat Intelligence, OSINT e reconhecimento autorizado.
+- **DESENVOLVIMENTO** — sistemas, interfaces, APIs e automações com Python, TypeScript, Rust e React.
+- **DADOS & ANÁLISE** — Power BI, DAX, dashboards e modelagem de dados.
 
+## TECNOLOGIAS
 
-Uma plataforma interativa desenvolvida para documentar os maiores ataques cibernéticos da história.
+- **Linguagens** — Python · TypeScript · JavaScript · Rust
+- **Interfaces** — React · Vite · Streamlit
+- **Backend e dados locais** — FastAPI · Node.js · Express · SQLite
+- **Segurança** — Nuclei · BBOT · Recon-ng · OSINT
+- **Dados e análise** — Power BI · DAX · TMDL
+- **Ferramentas e ambientes** — Git · Docker · Windows · Linux
 
-Mais do que apresentar informações, o projeto busca explicar como cada incidente aconteceu, quais impactos causou e quais lições podemos aprender.
+## PORTFÓLIO EM CONTEXTO
 
-Projeto disponível publicamente através do GitHub Pages.
+[![Projetos selecionados no portfólio EDY / GOMES](assets/README-SELECTED-WORK.png)](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/work)
 
-🛡️ EDY SHIELD
+[![Experiência mobile do portfólio EDY / GOMES](assets/README-MOBILE-EXPERIENCE.png)](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/)
 
-Projeto que originou a evolução do EDY SIEM.
+## CONTATO
 
-• Dashboard Blue Team
-• Monitoramento
-• Análise de eventos
-• Resposta a incidentes
+Aberto a conexões profissionais, oportunidades e projetos.
 
-🔗 Repositório:
-https://github.com/EDY075/edy-shield
-
-## Atualmente explorando
-
-- 🐧 Linux
-- 🌐 Redes
-- 🐍 Python
-- 🛡️ Threat Intelligence
-- 🚨 Resposta a Incidentes
-- 🔵 Blue Team
-- 🔍 SIEM
-- 🧾 Forense Digital
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-## 🎯 Objetivo
-
-Construindo projetos Open Source voltados para Blue Team, Threat Intelligence e Incident Response enquanto evoluo para atuar profissionalmente na área de Segurança da Informação.
-
----
-
-## 📬 Contato
-
-- 💼 LinkedIn
-  https://linkedin.com/in/edmilsongomes21
-
-- 💻 GitHub
-  https://github.com/EDY075
-
-- Projetos
-  https://github.com/EDY075?tab=repositories
----
-
-> "A segurança não é um produto. É um processo de evolução contínua."
-
+[Enviar e-mail](mailto:edmilsongsousa20@gmail.com) · [Conectar no LinkedIn](https://www.linkedin.com/in/edmilsongomes21/) · [Conhecer o portfólio](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/)
