@@ -1,0 +1,37 @@
+name: Atualizar painel do perfil
+
+on:
+  schedule:
+    - cron: '17 7 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update_profile_stats.py'
+      - 'scripts/test_profile_stats.py'
+      - '.github/workflows/update-profile-stats.yml'
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Verificar cálculos
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - name: Atualizar dados públicos e painel
+        run: python3 scripts/update_profile_stats.py
+      - name: Publicar painel atualizado
+        run: |
+          git add assets/github-activity.svg data/contributions.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: atualizar atividade do perfil'
+          git push
