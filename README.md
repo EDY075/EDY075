@@ -1,31 +1,20 @@
 [![Edmilson Gomes · Suporte de TI, Cibersegurança, Sistemas e Automação](assets/edmilson-gomes-profile-cover.webp)](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/)
 
+<p align="center"><strong><code>edy@github ~ $ whoami</code></strong></p>
+
+<p align="center">
+  <img src="assets/edmilson-gomes-binary-portrait.gif" width="560" alt="Retrato de Edmilson Gomes formado por caracteres binários." />
+</p>
+
 # Edmilson Gomes
 
 **Suporte de TI · Cibersegurança · Automação · Desenvolvimento**
 
-Desenvolvo soluções para resolver problemas de TI, organizar operações e apoiar decisões de segurança. Aqui compartilho projetos, estudos e documentação nas áreas de suporte, SOC / Blue Team, automação e análise de dados.
+Desenvolvo soluções para resolver problemas de TI, organizar operações e apoiar decisões de segurança. Compartilho projetos, estudos e documentação em suporte, SOC / Blue Team, automação e análise de dados.
+
+Apresento cada projeto com o problema que ele resolve, as decisões de implementação, as evidências de validação e os limites atuais.
 
 **[Conheça meu portfólio](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/)** · [LinkedIn](https://www.linkedin.com/in/edmilsongomes21/) · [Contato](mailto:edmilsongsousa20@gmail.com)
-
-## Apresentação em vídeo
-
-Uma visita ao meu portfólio, com sua experiência em desktop e mobile e projetos selecionados.
-
-https://github.com/user-attachments/assets/7668f4da-9530-4102-8719-9fa3e71c3e60
-
-## Sobre mim
-
-Meu trabalho conecta atendimento, diagnóstico técnico, desenvolvimento e documentação. Tenho foco em suporte de TI e operações, com estudos e projetos em cibersegurança, SOC / Blue Team e sistemas que priorizam execução e armazenamento locais.
-
-Procuro apresentar cada projeto com contexto: o problema que ele resolve, as decisões de implementação, as evidências de validação e os limites atuais.
-
-## Áreas de atuação
-
-- **Suporte e operações:** diagnóstico de hardware e software, atendimento ao usuário, endpoints Windows e documentação técnica.
-- **Cibersegurança:** análise de eventos, investigação defensiva, Threat Intelligence e pesquisa em fontes abertas.
-- **Desenvolvimento e automação:** interfaces, APIs, ferramentas locais e integração de fluxos de trabalho.
-- **Dados e análise:** dashboards, Power BI, modelagem de dados e relatórios para apoiar decisões.
 
 ## Projetos selecionados
 
@@ -40,6 +29,19 @@ Procuro apresentar cada projeto com contexto: o problema que ele resolve, as dec
 | [EDY SHADOWCAT · case público](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/work/edy-shadowcat) | Orquestração de reconhecimento autorizado e evidências. Repositório privado. |
 
 [Explore os cases no portfólio](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/work) · [Veja todos os repositórios públicos](https://github.com/EDY075?tab=repositories)
+
+## Apresentação em vídeo
+
+Uma visita ao portfólio e aos projetos selecionados, em desktop e mobile.
+
+https://github.com/user-attachments/assets/7668f4da-9530-4102-8719-9fa3e71c3e60
+
+## Áreas de atuação
+
+- **Suporte e operações:** diagnóstico de hardware e software, atendimento ao usuário, endpoints Windows e documentação técnica.
+- **Cibersegurança:** análise de eventos, investigação defensiva, Threat Intelligence e pesquisa em fontes abertas.
+- **Desenvolvimento e automação:** interfaces, APIs e integração de fluxos de trabalho, priorizando execução e armazenamento locais.
+- **Dados e análise:** dashboards, Power BI, modelagem de dados e relatórios para apoiar decisões.
 
 ## Tecnologias
 
