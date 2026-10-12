@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="assets/edmilson-gomes-binary-portrait-cursor-once.gif" width="400" alt="Retrato de Edmilson Gomes formado por caracteres binários, desenhado pelo cursor uma única vez." />
-  <img src="assets/github-activity.svg" width="400" alt="Atividade de EDY075 no GitHub: sequências, contribuições, dias ativos, melhor dia, média por dia ativo e gráfico mensal. Dados do calendário público atualizados diariamente." />
+  <img src="assets/github-activity-animated.svg" width="400" alt="Atividade de EDY075 no GitHub: sequências, contribuições, dias ativos, melhor dia, média por dia ativo e gráfico mensal. Dados do calendário público atualizados diariamente." />
 </p>
 
 # Edmilson Gomes

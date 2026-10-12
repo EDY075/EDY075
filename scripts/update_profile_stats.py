@@ -117,21 +117,46 @@ def render(data):
         '<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">',
         '<title id="title">Atividade de EDY075 no GitHub</title>',
         f'<desc id="desc">Calendário público do GitHub: {escape(description)}. Período {short_date(start)} a {short_date(end)}. Gráfico mensal de seis meses; mês atual parcial.</desc>',
-        '<style>text{font-family:Consolas,monospace}.bar{transform-box:fill-box;transform-origin:bottom;animation:grow .7s ease-out both}@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}@media(prefers-reduced-motion:reduce){.bar{animation:none}}</style>',
+        '<style>text{font-family:Consolas,monospace}'
+        '.stage{animation:appear .55s cubic-bezier(.22,1,.36,1) both}'
+        '@keyframes appear{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}'
+        '.counter-frame{opacity:0;animation:counterframe .075s steps(1,end)}'
+        '@keyframes counterframe{from{opacity:1}to{opacity:0}}'
+        '.final-number{animation:finalvalue 1.2s steps(1,end) both}'
+        '@keyframes finalvalue{from{opacity:0}to{opacity:1}}'
+        '.bar{transform-box:fill-box;transform-origin:bottom;animation:grow .95s cubic-bezier(.22,1,.36,1) both}'
+        '@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}'
+        '@media(prefers-reduced-motion:reduce){.stage,.bar,.final-number{animation:none!important}.counter-frame{display:none}}'
+        '</style>',
         '<rect x="1" y="1" width="798" height="798" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>',
+        '<g class="stage" style="animation-delay:.7s">',
         '<text x="28" y="44" fill="#e6edf3" font-size="26" font-weight="700">ATIVIDADE NO GITHUB</text>',
         '<text x="28" y="76" fill="#aab3be" font-size="21">EDY075 · calendário público</text>',
+        '</g>',
     ]
+    numeric_values = [data['current_streak'], data['longest_streak'], data['total_contributions'], data['active_days'], best['count'], data['avg_per_active_day']]
+    # Finite reveal follows the portrait's .7s hold and 8s drawing pass.
     for i, (label, value, caption, color) in enumerate(tiles):
         x = 24 + (i % 2) * 384
         y = 96 + (i // 2) * 151
+        delay = .7 + i * .75
+        count_start = delay + .35
         parts += [
+            f'<g class="stage" style="animation-delay:{delay:.2f}s">',
             f'<rect x="{x}" y="{y}" width="368" height="137" rx="8" fill="#161b22" stroke="#30363d"/>',
             f'<text x="{x+20}" y="{y+33}" fill="#aab3be" font-size="27">{escape(label)}</text>',
-            f'<text x="{x+20}" y="{y+90}" fill="{color}" font-size="58" font-weight="700">{value}</text>',
             f'<text x="{x+20}" y="{y+120}" fill="#aab3be" font-size="23">{escape(caption)}</text>',
         ]
-    parts += ['<text x="28" y="580" fill="#e6edf3" font-size="25">Contribuições por mês</text>']
+        for frame in range(16):
+            progress = 1 - (1 - frame / 16) ** 3
+            number = numeric_values[i] * progress
+            displayed = f'{number:.1f}'.replace('.', ',') if i == 5 else f'{round(number):,}'.replace(',', '.')
+            parts.append(f'<text class="counter-frame" opacity="0" aria-hidden="true" x="{x+20}" y="{y+90}" fill="{color}" font-size="58" font-weight="700" style="animation-delay:{count_start+frame*.075:.3f}s">{displayed}</text>')
+        parts += [
+            f'<text class="final-number" x="{x+20}" y="{y+90}" fill="{color}" font-size="58" font-weight="700" style="animation-delay:{count_start:.2f}s">{value}</text>',
+            '</g>',
+        ]
+    parts += ['<g class="stage" style="animation-delay:5.9s"><text x="28" y="580" fill="#e6edf3" font-size="25">Contribuições por mês</text></g>']
     months = data['monthly'][-6:]
     peak = max((m['total'] for m in months), default=0) or 1
     for i, m in enumerate(months):
@@ -139,11 +164,13 @@ def render(data):
         height = 90 * m['total'] / peak
         label = MONTHS[int(m['month'][5:])-1]
         parts += [
-            f'<rect class="bar" x="{x}" y="{710-height:.1f}" width="77" height="{height:.1f}" rx="3" fill="#26a641" style="animation-delay:{i*.06:.2f}s"><title>{m["month"]}: {m["total"]} contribuições</title></rect>',
+            f'<rect class="bar" x="{x}" y="{710-height:.1f}" width="77" height="{height:.1f}" rx="3" fill="#26a641" style="animation-delay:{6.1+i*.27:.2f}s"><title>{m["month"]}: {m["total"]} contribuições</title></rect>',
+            f'<g class="stage" style="animation-delay:{6.1+i*.27:.2f}s">',
             f'<text x="{x+38.5}" y="{700-height:.1f}" text-anchor="middle" fill="#e6edf3" font-size="21">{m["total"]}</text>',
             f'<text x="{x+38.5}" y="737" text-anchor="middle" fill="#aab3be" font-size="23">{label}</text>',
+            '</g>',
         ]
-    parts += [f'<text x="28" y="772" fill="#aab3be" font-size="18">{short_date(start)}–{short_date(end)} · mês atual parcial</text>', '</svg>']
+    parts += [f'<g class="stage" style="animation-delay:8.15s"><text x="28" y="772" fill="#aab3be" font-size="18">{short_date(start)}–{short_date(end)} · mês atual parcial</text></g>', '</svg>']
     return '\n'.join(parts) + '\n'
 
 def main():
@@ -169,7 +196,7 @@ def main():
     svg = render(data)
     (ROOT / 'data').mkdir(exist_ok=True)
     (ROOT / 'data/contributions.json').write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
-    (ROOT / 'assets/github-activity.svg').write_text(svg, encoding='utf-8')
+    (ROOT / 'assets/github-activity-animated.svg').write_text(svg, encoding='utf-8')
     print(f"{data['total_contributions']} contributions; {data['active_days']} active days; through {data['range']['end']}")
 
 if __name__ == '__main__':
