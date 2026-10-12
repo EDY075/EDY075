@@ -1,9 +1,7 @@
 [![Edmilson Gomes · Suporte de TI, Cibersegurança, Sistemas e Automação](assets/edmilson-gomes-profile-cover.webp)](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/)
 
-<p align="center"><strong><code>edy@github ~ $ whoami</code></strong></p>
-
 <p align="center">
-  <img src="assets/edmilson-gomes-binary-portrait.gif" width="560" alt="Retrato de Edmilson Gomes formado por caracteres binários." />
+  <img src="assets/edmilson-gomes-binary-portrait-cursor.gif" width="560" alt="Retrato de Edmilson Gomes formado por caracteres binários." />
 </p>
 
 # Edmilson Gomes
