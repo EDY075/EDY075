@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
 <title id="title">Atividade de EDY075 no GitHub</title>
-<desc id="desc">Calendário público do GitHub: Sequência atual: 0 dias seguidos; Maior sequência: 6 dias no período; Contribuições: 451 no período abaixo; Dias com atividade: 34 de 368 dias; Melhor dia: 47 02/09/2026; Média / dia ativo: 13,3 contribuições. Período 26/10/2025 a 28/10/2026. Gráfico mensal de seis meses; mês atual parcial.</desc>
+<desc id="desc">Calendário público do GitHub: Sequência atual: 0 dias seguidos; Maior sequência: 6 dias no período; Contribuições: 451 no período abaixo; Dias com atividade: 34 de 369 dias; Melhor dia: 47 02/09/2026; Média / dia ativo: 13,3 contribuições. Período 26/10/2025 a 29/10/2026. Gráfico mensal de seis meses; mês atual parcial.</desc>
 <style>text{font-family:Consolas,monospace}.stage{animation:appear .55s cubic-bezier(.22,1,.36,1) both}@keyframes appear{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}.counter-frame{opacity:0;animation:counterframe .075s steps(1,end)}@keyframes counterframe{from{opacity:1}to{opacity:0}}.final-number{animation:finalvalue 1.2s steps(1,end) both}@keyframes finalvalue{from{opacity:0}to{opacity:1}}.bar{transform-box:fill-box;transform-origin:bottom;animation:grow .95s cubic-bezier(.22,1,.36,1) both}@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}@media(prefers-reduced-motion:reduce){.stage,.bar,.final-number{animation:none!important}.counter-frame{display:none}}</style>
 <rect x="1" y="1" width="798" height="798" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
 <g class="stage" style="animation-delay:.7s">
@@ -76,7 +76,7 @@
 <g class="stage" style="animation-delay:2.95s">
 <rect x="408" y="247" width="368" height="137" rx="8" fill="#161b22" stroke="#30363d"/>
 <text x="428" y="280" fill="#aab3be" font-size="27">Dias com atividade</text>
-<text x="428" y="367" fill="#aab3be" font-size="23">de 368 dias</text>
+<text x="428" y="367" fill="#aab3be" font-size="23">de 369 dias</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.300s">0</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.375s">6</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.450s">11</text>
@@ -170,5 +170,5 @@
 <text x="696.5" y="671.9" text-anchor="middle" fill="#e6edf3" font-size="21">74</text>
 <text x="696.5" y="737" text-anchor="middle" fill="#aab3be" font-size="23">out</text>
 </g>
-<g class="stage" style="animation-delay:8.15s"><text x="28" y="772" fill="#aab3be" font-size="18">26/10/2025–28/10/2026 · mês atual parcial</text></g>
+<g class="stage" style="animation-delay:8.15s"><text x="28" y="772" fill="#aab3be" font-size="18">26/10/2025–29/10/2026 · mês atual parcial</text></g>
 </svg>
