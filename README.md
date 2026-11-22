@@ -1,4 +1,4 @@
-[![Edmilson Gomes · Suporte de TI, Cibersegurança, Sistemas e Automação](assets/edmilson-gomes-profile-cover.webp)](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/)
+[![Portfólio 2.0 de Edmilson Gomes · Suporte de TI, Segurança, Desenvolvimento e Automação](assets/edy-gomes-portfolio-v2.jpg)](https://edy-gomes-portfolio-v2.edy-scanurl-family-worker.workers.dev/)
 
 <p align="center">
   <img src="assets/edmilson-gomes-binary-portrait-cursor-once.gif" width="400" alt="Retrato de Edmilson Gomes formado por caracteres binários, desenhado pelo cursor uma única vez." />
@@ -13,21 +13,20 @@ Desenvolvo soluções para resolver problemas de TI, organizar operações e apo
 
 Apresento cada projeto com o problema que ele resolve, as decisões de implementação, as evidências de validação e os limites atuais.
 
-**[Conheça meu portfólio](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/)** · [LinkedIn](https://www.linkedin.com/in/edmilsongomes21/) · [Contato](mailto:edmilsongsousa20@gmail.com)
+**[Conheça meu portfólio](https://edy-gomes-portfolio-v2.edy-scanurl-family-worker.workers.dev/)** · [LinkedIn](https://www.linkedin.com/in/edmilsongomes21/) · [Contato](mailto:edmilsongsousa20@gmail.com)
 
 ## Projetos selecionados
 
 | Projeto | O que você encontra |
 |---|---|
-| [EDY HelpDesk](https://github.com/EDY075/EDY-HelpDesk) | Service Desk com tickets, SLA, ativos e diagnósticos somente leitura. |
-| [EDY SOC Analytics](https://github.com/EDY075/EDY-SOC-Analytics) | Análise de SOC no Power BI com dados sintéticos, DAX e MITRE ATT&CK. |
-| [EDY VERDICT](https://github.com/EDY075/EDY-VERDICT) | Verificação local de repositórios, binários, aplicativos e URLs. |
-| [EDY ScanURL Family](https://github.com/EDY075/edy-scanurl-family) | Web, PWA e Android para consultar sinais públicos de lojas e URLs. |
-| [WAR ROOM](https://github.com/EDY075/WAR_ROOM) | Experiência documental sobre incidentes cibernéticos, com mapas, capítulos e narração. |
-| [EDY RECON](https://github.com/EDY075/EDY-RECON) | Toolkit de OSINT e reconhecimento autorizado, com relatórios TXT / HTML. |
-| [EDY SHADOWCAT · case público](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/work/edy-shadowcat) | Orquestração de reconhecimento autorizado e evidências. Repositório privado. |
+| [EDY Energy](https://edy-gomes-portfolio-v2.edy-scanurl-family-worker.workers.dev/work/edy-energy) | **Vitrine 3D.** Carrossel interativo de seis sabores e montagem de packs em uma loja demonstrativa. |
+| [WAR ROOM](https://edy-gomes-portfolio-v2.edy-scanurl-family-worker.workers.dev/work/war-room) | **Documentário interativo.** 17 dossiês sobre incidentes cibernéticos, com mapas, fontes e narração. |
+| [CR Fitness](https://edy-gomes-portfolio-v2.edy-scanurl-family-worker.workers.dev/work/cr-fitness) | **Site de cliente.** Site responsivo com modalidades, planos, horários e localização da academia. |
+| [EDY CRM](https://edy-gomes-portfolio-v2.edy-scanurl-family-worker.workers.dev/work/edy-crm) | **Automação.** Fluxo local de pesquisa, propostas visuais e prévias versionadas. |
+| [Raquel Web](https://edy-gomes-portfolio-v2.edy-scanurl-family-worker.workers.dev/work/raquel-web) | **Aplicativo de cliente.** Acompanhamento e prescrição de treinos, com demonstração pública usando dados fictícios. |
+| [EDY SOC Analytics](https://edy-gomes-portfolio-v2.edy-scanurl-family-worker.workers.dev/work/edy-soc-analytics) | **Segurança defensiva.** Análise de incidentes em Power BI com dados sintéticos, DAX e MITRE ATT&CK. |
 
-[Explore os cases no portfólio](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/work) · [Veja todos os repositórios públicos](https://github.com/EDY075?tab=repositories)
+[Explore os cases no portfólio](https://edy-gomes-portfolio-v2.edy-scanurl-family-worker.workers.dev/work) · [Veja todos os repositórios públicos](https://github.com/EDY075?tab=repositories)
 
 ## Apresentação em vídeo
 
@@ -61,4 +60,4 @@ https://github.com/user-attachments/assets/7668f4da-9530-4102-8719-9fa3e71c3e60
 
 Aberto a conexões profissionais, oportunidades e projetos em TI, segurança e automação.
 
-[Enviar e-mail](mailto:edmilsongsousa20@gmail.com) · [Conectar no LinkedIn](https://www.linkedin.com/in/edmilsongomes21/) · [Visitar o portfólio](https://edy-gomes-portfolio.edy-scanurl-family-worker.workers.dev/)
+[Enviar e-mail](mailto:edmilsongsousa20@gmail.com) · [Conectar no LinkedIn](https://www.linkedin.com/in/edmilsongomes21/) · [Visitar o portfólio](https://edy-gomes-portfolio-v2.edy-scanurl-family-worker.workers.dev/)
