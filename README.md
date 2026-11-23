@@ -32,7 +32,7 @@ Apresento cada projeto com o problema que ele resolve, as decisões de implement
 
 Uma visita ao portfólio e aos projetos selecionados, em desktop e mobile.
 
-https://github.com/user-attachments/assets/7668f4da-9530-4102-8719-9fa3e71c3e60
+https://github.com/user-attachments/assets/1fc9c38b-bd1a-459b-9132-b32942207dcd
 
 ## Áreas de atuação
 
