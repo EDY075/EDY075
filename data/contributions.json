@@ -2,12 +2,12 @@
   "username": "EDY075",
   "source": "https://github.com/users/EDY075/contributions",
   "range": {
-    "start": "2025-11-16",
-    "end": "2026-11-21"
+    "start": "2025-11-23",
+    "end": "2026-11-23"
   },
-  "total_contributions": 466,
-  "active_days": 37,
-  "current_streak": 2,
+  "total_contributions": 479,
+  "active_days": 38,
+  "current_streak": 3,
   "longest_streak": 6,
   "best_day": {
     "date": "2026-09-02",
@@ -65,38 +65,10 @@
     },
     {
       "month": "2026-11",
-      "total": 15
+      "total": 28
     }
   ],
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 0
-    },
-    {
-      "date": "2025-11-17",
-      "count": 0
-    },
-    {
-      "date": "2025-11-18",
-      "count": 0
-    },
-    {
-      "date": "2025-11-19",
-      "count": 0
-    },
-    {
-      "date": "2025-11-20",
-      "count": 0
-    },
-    {
-      "date": "2025-11-21",
-      "count": 0
-    },
-    {
-      "date": "2025-11-22",
-      "count": 0
-    },
     {
       "date": "2025-11-23",
       "count": 0
@@ -1551,7 +1523,15 @@
     },
     {
       "date": "2026-11-21",
-      "count": 5
+      "count": 16
+    },
+    {
+      "date": "2026-11-22",
+      "count": 2
+    },
+    {
+      "date": "2026-11-23",
+      "count": 0
     }
   ]
 }
