@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
 <title id="title">Atividade de EDY075 no GitHub</title>
-<desc id="desc">Calendário público do GitHub: Sequência atual: 1 dias seguidos; Maior sequência: 6 dias no período; Contribuições: 481 no período abaixo; Dias com atividade: 39 de 370 dias; Melhor dia: 47 02/09/2026; Média / dia ativo: 12,3 contribuições. Período 23/11/2025 a 27/11/2026. Gráfico mensal de seis meses; mês atual parcial.</desc>
+<desc id="desc">Calendário público do GitHub: Sequência atual: 1 dias seguidos; Maior sequência: 6 dias no período; Contribuições: 482 no período abaixo; Dias com atividade: 39 de 371 dias; Melhor dia: 47 02/09/2026; Média / dia ativo: 12,4 contribuições. Período 23/11/2025 a 28/11/2026. Gráfico mensal de seis meses; mês atual parcial.</desc>
 <style>text{font-family:Consolas,monospace}.stage{animation:appear .55s cubic-bezier(.22,1,.36,1) both}@keyframes appear{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}.counter-frame{opacity:0;animation:counterframe .075s steps(1,end)}@keyframes counterframe{from{opacity:1}to{opacity:0}}.final-number{animation:finalvalue 1.2s steps(1,end) both}@keyframes finalvalue{from{opacity:0}to{opacity:1}}.bar{transform-box:fill-box;transform-origin:bottom;animation:grow .95s cubic-bezier(.22,1,.36,1) both}@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}@media(prefers-reduced-motion:reduce){.stage,.bar,.final-number{animation:none!important}.counter-frame{display:none}}</style>
 <rect x="1" y="1" width="798" height="798" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
 <g class="stage" style="animation-delay:.7s">
@@ -59,24 +59,24 @@
 <text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:2.625s">85</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:2.700s">159</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:2.775s">223</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:2.850s">278</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:2.850s">279</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:2.925s">325</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.000s">364</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.075s">395</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.150s">421</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.225s">441</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.300s">456</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.375s">466</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.450s">473</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.525s">478</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.600s">480</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.675s">481</text>
-<text class="final-number" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:2.55s">481</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.075s">396</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.150s">422</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.225s">442</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.300s">457</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.375s">467</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.450s">474</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.525s">479</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.600s">481</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.675s">482</text>
+<text class="final-number" x="44" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:2.55s">482</text>
 </g>
 <g class="stage" style="animation-delay:2.95s">
 <rect x="408" y="247" width="368" height="137" rx="8" fill="#161b22" stroke="#30363d"/>
 <text x="428" y="280" fill="#aab3be" font-size="27">Dias com atividade</text>
-<text x="428" y="367" fill="#aab3be" font-size="23">de 370 dias</text>
+<text x="428" y="367" fill="#aab3be" font-size="23">de 371 dias</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.300s">0</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.375s">7</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="337" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:3.450s">13</text>
@@ -125,19 +125,19 @@
 <text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:4.875s">2,2</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:4.950s">4,1</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.025s">5,7</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.100s">7,1</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.175s">8,3</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.250s">9,3</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.325s">10,1</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.100s">7,2</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.175s">8,4</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.250s">9,4</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.325s">10,2</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.400s">10,8</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.475s">11,3</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.475s">11,4</text>
 <text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.550s">11,7</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.625s">11,9</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.700s">12,1</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.775s">12,2</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.850s">12,3</text>
-<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.925s">12,3</text>
-<text class="final-number" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:4.80s">12,3</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.625s">12,0</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.700s">12,2</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.775s">12,3</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.850s">12,4</text>
+<text class="counter-frame" opacity="0" aria-hidden="true" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:5.925s">12,4</text>
+<text class="final-number" x="428" y="488" fill="#e6edf3" font-size="58" font-weight="700" style="animation-delay:4.80s">12,4</text>
 </g>
 <g class="stage" style="animation-delay:5.9s"><text x="28" y="580" fill="#e6edf3" font-size="25">Contribuições por mês</text></g>
 <rect class="bar" x="43" y="697.5" width="77" height="12.5" rx="3" fill="#26a641" style="animation-delay:6.10s"><title>2026-06: 33 contribuições</title></rect>
@@ -165,10 +165,10 @@
 <text x="573.5" y="671.9" text-anchor="middle" fill="#e6edf3" font-size="21">74</text>
 <text x="573.5" y="737" text-anchor="middle" fill="#aab3be" font-size="23">out</text>
 </g>
-<rect class="bar" x="658" y="698.6" width="77" height="11.4" rx="3" fill="#26a641" style="animation-delay:7.45s"><title>2026-11: 30 contribuições</title></rect>
+<rect class="bar" x="658" y="698.2" width="77" height="11.8" rx="3" fill="#26a641" style="animation-delay:7.45s"><title>2026-11: 31 contribuições</title></rect>
 <g class="stage" style="animation-delay:7.45s">
-<text x="696.5" y="688.6" text-anchor="middle" fill="#e6edf3" font-size="21">30</text>
+<text x="696.5" y="688.2" text-anchor="middle" fill="#e6edf3" font-size="21">31</text>
 <text x="696.5" y="737" text-anchor="middle" fill="#aab3be" font-size="23">nov</text>
 </g>
-<g class="stage" style="animation-delay:8.15s"><text x="28" y="772" fill="#aab3be" font-size="18">23/11/2025–27/11/2026 · mês atual parcial</text></g>
+<g class="stage" style="animation-delay:8.15s"><text x="28" y="772" fill="#aab3be" font-size="18">23/11/2025–28/11/2026 · mês atual parcial</text></g>
 </svg>
